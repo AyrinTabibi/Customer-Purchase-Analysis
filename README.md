@@ -66,7 +66,7 @@ However, middle-aged parents are the largest segment within the customer demogra
 * Most customers fall into the middle-aged, married, and parent demographic, it's advisable to design advertising strategies that resonate with this specific group. Married users also tend to have the highest proportion of high spenders, defined by an average item price of $10 or more. Marketing messages that cater to this demographic could lead to increased sales and customer satisfaction.
 
 <p align="center">
-<img src="images/crosstab_spending_family.png">
+<img src="images/crosstab_loyal_spend.png">
 </p>
 
 * Incorporate additional measures such as average price and length of membership to determine customer loyalty status.
